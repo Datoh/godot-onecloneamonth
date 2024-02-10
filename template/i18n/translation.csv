@@ -1,0 +1,17 @@
+keys,en,de,fr
+credits,Credits here,Credits hier,Crédits
+new_game,New Game,Neues Spiel,Nouvelle partie
+continue,Continue,Fortfahren,Continuer
+settings,Game Settings,Einstellungen,Paramètres
+leave_game,Leave game,Spiel verlassen,Quitter
+return_to_main,Return to main menu,Zum Hauptmenü,Retour au menu
+return_to_menu,Back to menu,Zurück,Retour au menu
+settings_volume_master_enabled,Master Enabled,Lautstärke an,Sons
+settings_volume_master,Master Volume,Lautstärke (Allgemein),Volume pricipal
+settings_volume_music_enabled,Music enabled,Musik an,Musique
+settings_volume_music,Music Volume,Musik Lautstärke,Volume musique
+settings_volume_sound_enabled,Sound enabled,Sound an,Bruitages
+settings_volume_sound,Sound Volume,Sound Lautstärke,Volume bruitages
+settings_language,Game Language,Spielsprache,Langue
+game_paused,Game paused,Spiel pausiert,Pause
+resume_game,Resume game,Weiterspielen,Reprendre
